@@ -16,7 +16,7 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 - Excel
 
 ## 🚀 Key Insights
-- Gender pay gap of 12.5% across regions
+- Gender pay gap of 3.55% across regions
 - 64% of bonuses favor male employees
 - 25% of staff earn below mandated minimum wage
 
