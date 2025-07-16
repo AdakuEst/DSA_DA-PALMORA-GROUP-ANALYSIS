@@ -18,7 +18,7 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 ## 🚀 Key Insights
 - Gender pay gap of 3.55% across regions
 - 68% of bonuses favor male employees
-- 25% of staff earn below mandated minimum wage
+- 69% of staff earn below mandated minimum wage
 
 ## 📈 Dashboards & Visuals
 Find all charts in the `visuals/` folder and dashboard file in `analysis/`.
