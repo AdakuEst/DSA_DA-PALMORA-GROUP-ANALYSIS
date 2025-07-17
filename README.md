@@ -41,9 +41,7 @@ Even in departments where females outperform males on average, bonus rates remai
 Insight: HR may need to recalibrate bonus structures or evaluate performance-rating biases
 
 📉 3. Salary Floor Compliance Issue
-25% of employees earn below the government-mandated wage threshold of ₦90,000
-
-Most of these are in support roles or specific departments like Admin or Logistics
+69% of employees earn below the government-mandated wage threshold of ₦90,000
 
 Insight: Immediate remediation is needed to comply with labor laws and protect workers' livelihood
 
