@@ -15,6 +15,12 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 - Power BI
 - Excel
 
+## DATA CLEANING AND PREPARATION:
+Document Clean-up Decision
+ - Replaced missing gender values with "Undisclosed"
+ - Removed records with missing salary or NULL departments
+ - Converted salary and rating columns to numerical types  
+
 ## 🚀 Key Insights
 - Gender pay gap of 3.55% across regions
 - 68% of bonuses favor male employees
@@ -29,10 +35,6 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 - Compliance with wage regulations
 
 
-## DATA CLEANING AND PREPARATION:
-Document Clean-up Decision
- - Replaced missing gender values with "Undisclosed"
- - Removed records with missing salary or NULL departments
- - Converted salary and rating columns to numerical types
+
 
 ✨
