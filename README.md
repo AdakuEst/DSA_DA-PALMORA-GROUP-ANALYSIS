@@ -24,15 +24,15 @@ Document Clean-up Decision
 ## 📈 Dashboards & Visuals ✨
 ➡️ [Download Dashboard](Visual/Palmoria%20HR%20EDA%20Analysis%201.pbix)
 
-- ## 🧠 🚀 Key Insights for my Palmoria HR Dashboard
+## 🧠 🚀 Key Insights for my Palmoria HR Dashboard
 
   1. The Male Gender dominates in all region by 5%
 
   2. Total "Unspecified" is 40
 
-  This might be due to **Privacy Preference** or concerns about work         place Culture
+  This might be due to **Privacy Preference** or concerns about work place Culture
 
-   Insight: HR may need to explore if current systems make employees          feel unsafe disclosing their Identity
+  Insight: HR may need to explore if current systems make employees feel unsafe disclosing their Identity
   
 💰 3. Gender Pay Gap 3.55% Across Regions
 
