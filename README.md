@@ -17,7 +17,7 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 
 ## DATA CLEANING AND PREPARATION:
 Document Clean-up Decision
- - Replaced missing gender values with "Undisclosed"
+ - Replaced missing gender values with "Unspecified"
  - Removed records with missing salary or NULL departments
  - Converted salary and rating columns to numerical types  
 
@@ -30,6 +30,14 @@ Document Clean-up Decision
 ➡️ [Download Dashboard](Visual/Palmoria%20HR%20EDA%20Analysis%201.pbix)
 
 - 🧠 Key Insights for my Palmoria HR Dashboard
+
+- The Male Gender dominates in all region by 5%
+
+- Total "Unspecified" is 40
+
+  This might be due to **Privacy Preference** or concerns about work place Culture
+
+  Insight: HR may need to explore if current systems make employees feel unsafe disclosing their Identity
   
 💰 1. Gender Pay Gap 3.55% Across Regions
 
@@ -46,25 +54,23 @@ Insight: HR may need to recalibrate bonus structures or evaluate performance-rat
 Insight: Immediate remediation is needed to comply with labor laws and protect workers' livelihood
 
 📊 4. Rating Trends by Gender
-Average ratings for female employees are slightly lower than male counterparts in 4 of 6 departments
-
-Visuals reveal tight clustering around mid-ratings (3–4), suggesting potential rating compression
+Average ratings for female employees are slightly lower than male counterparts 
 
 Insight: Performance review processes might benefit from transparency and standardized calibration
 
 🗺️ 5. Regional Disparities in Compensation
-Region A has both the highest average salary and lowest bonus payout
+       Kadunna has the highest average salary in the 3 Region by 38%
 
-Region C shows balanced salary and rating patterns, hinting at equitable practices
-
-Insight: Use Region C as a benchmark for fairness metrics
 
 ## 📌 Recommendations
 - HR recalibration strategy
+     - **Pay levels**
+     - **Performance ratings**
+     - **Promotion frequency**
+     - **Training access**
+
 - Bonus allocation restructuring
 - Compliance with wage regulations
-
-
 
 
 ✨
