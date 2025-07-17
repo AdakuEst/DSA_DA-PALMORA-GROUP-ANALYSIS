@@ -43,20 +43,20 @@ Even in departments where females outperform males on average, bonus rates remai
 
 Insight: HR may need to recalibrate bonus structures or evaluate performance-rating biases
 
-   4. 69% of staff earn below mandated minimum wage
+✨ 5. 69% of staff earn below mandated minimum wage
 
-📉 5. Salary Floor Compliance Issue
+📉 6. Salary Floor Compliance Issue
 69% of employees earn below the government-mandated wage threshold of ₦90,000
 
 Insight: Immediate remediation is needed to comply with labor laws and protect workers' livelihood
 
-📊 6. Rating Trends by Gender
+📊 7. Rating Trends by Gender
 Average ratings for female employees are slightly lower than male counterparts 
 
 Insight: Performance review processes might benefit from transparency and standardized calibration
 
-🗺️ 7. Regional Disparities in Compensation
-       Kadunna has the highest average salary in the 3 Region by 38%
+🗺️ 8. Regional Disparities in Compensation
+Kadunna has the highest average salary in the 3 Region by 38%
 
 
 ## 📌 Recommendations
@@ -70,7 +70,8 @@ Insight: Performance review processes might benefit from transparency and standa
 - Compliance with wage regulations
 
 
- ##📊In Conclusion: 
+ ## 📊 In Conclusion: 
+ 
 The Palmoria HR analysis provided valuable insight into the company's workforce dynamics, revealing key trends in gender representation, performance distribution, and departmental staffing. Through data exploration and visualization, the project identified areas where HR policies could be strengthened, especially regarding gender inclusivity and workplace equity.
 
 The findings Emphasize the significance of:
