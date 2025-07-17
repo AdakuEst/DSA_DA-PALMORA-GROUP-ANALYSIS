@@ -19,21 +19,20 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 Document Clean-up Decision
  - Replaced missing gender values with "Unspecified"
  - Removed records with missing salary or NULL departments
- - Converted salary and rating columns to numerical types  
 
 
 ## 📈 Dashboards & Visuals
 ➡️ [Download Dashboard](Visual/Palmoria%20HR%20EDA%20Analysis%201.pbix)
 
-- 🧠 🚀 Key Insights for my Palmoria HR Dashboard
+- ## 🧠 🚀 Key Insights for my Palmoria HR Dashboard
 
   1. The Male Gender dominates in all region by 5%
 
   2. Total "Unspecified" is 40
 
-      This might be due to **Privacy Preference** or concerns about work         place Culture
+  This might be due to **Privacy Preference** or concerns about work         place Culture
 
-      Insight: HR may need to explore if current systems make employees          feel unsafe disclosing their Identity
+   Insight: HR may need to explore if current systems make employees          feel unsafe disclosing their Identity
   
 💰 3. Gender Pay Gap 3.55% Across Regions
 
@@ -44,19 +43,19 @@ Even in departments where females outperform males on average, bonus rates remai
 
 Insight: HR may need to recalibrate bonus structures or evaluate performance-rating biases
 
-- 69% of staff earn below mandated minimum wage
+   4. 69% of staff earn below mandated minimum wage
 
-📉 3. Salary Floor Compliance Issue
+📉 5. Salary Floor Compliance Issue
 69% of employees earn below the government-mandated wage threshold of ₦90,000
 
 Insight: Immediate remediation is needed to comply with labor laws and protect workers' livelihood
 
-📊 4. Rating Trends by Gender
+📊 6. Rating Trends by Gender
 Average ratings for female employees are slightly lower than male counterparts 
 
 Insight: Performance review processes might benefit from transparency and standardized calibration
 
-🗺️ 5. Regional Disparities in Compensation
+🗺️ 7. Regional Disparities in Compensation
        Kadunna has the highest average salary in the 3 Region by 38%
 
 
