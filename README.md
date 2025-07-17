@@ -21,7 +21,7 @@ Analyzing gender equity, salary distribution, and performance metrics to uncover
 - 69% of staff earn below mandated minimum wage
 
 ## 📈 Dashboards & Visuals
-[Dashboard](Visual/Palmoria.pbix)
+[Dashboard](Visual)
 
 ## 📌 Recommendations
 - HR recalibration strategy
